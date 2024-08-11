@@ -21,6 +21,14 @@ An extra that product by NurMi's since 2019. Can say that "Hey damn!" this greet
 2020: CH LLC - Covid Health LLC.
 
 2019: I-A-M LLC: I am Mike LLC.
+# About it
+```
+Creator: Sasha Mike
+
+Phone: +7 989-637-8969
+
+Email: support@nurmi.com 
+```
 # Official Channel
 [GitHub](https://github.com/NurMiApp)
 
