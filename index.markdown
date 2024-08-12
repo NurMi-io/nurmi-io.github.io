@@ -30,6 +30,7 @@ Phone: +7 989-637-8969
 Email: support@nurmi.com 
 ```
 # Official Channel
-[GitHub](https://github.com/NurMiApp)
+![Static Badge](https://img.shields.io/badge/build-donate-brightgreen?style=flat&logo=Boosty&logoColor=White&label=Boosty&color=%23eb5e34&link=https%3A%2F%2Fboosty.to%2Fnurmike)
+
 
 [Boosty](https://boosty.to/nurmike)
