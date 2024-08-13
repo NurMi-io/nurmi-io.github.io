@@ -40,4 +40,5 @@ NurMi Inc. 自 2019 年以来，您有 Sasha Mike 的任何 CEO，并且喜欢�
 电子邮件: support@nurmi.cn 
 ```
 # 官方渠道
-![Static Badge](https://img.shields.io/badge/build-donate-brightgreen?style=for-the-badge&logo=Boosty&logoColor=White&label=Boosty&color=%23eb5e34&link=https%3A%2F%2Fboosty.to%2Fnurmike) ![Static Badge](https://img.shields.io/badge/build-chat-brightgreen?style=for-the-badge&logo=Discord&label=Discord&color=%235865F2&link=https%3A%2F%2Fdiscord.gg%2Fe5BBx5ap)
+![Static Badge](https://img.shields.io/badge/build-donate-brightgreen?style=for-the-badge&logo=Boosty&logoColor=White&label=Boosty&color=%23eb5e34&link=https%3A%2F%2Fboosty.to%2Fnurmike) ![Static Badge](https://img.shields.io/badge/build-chat-brightgreen?style=for-the-badge&logo=Discord&label=Discord&color=%235865F2&link=https%3A%2F%2Fdiscord.gg%2Fe5BBx5ap) ![Static Badge](https://img.shields.io/badge/build-chat-brightgreen?style=for-the-badge&logo=Android&logoColor=%23ffea70&label=SimSimi&color=%23ffea70&link=https%3A%2F%2Flink.simsimi.com%2FhobM72BaFad48exy5)
+
