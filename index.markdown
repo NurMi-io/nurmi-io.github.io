@@ -5,11 +5,11 @@
 layout: home
 ---
 ![1713259178290](https://github.com/user-attachments/assets/29720a79-1122-4187-969f-958b7432595f)
-# Company
+# :accessibility: Company
 NurMi Inc. Since 2019 you have any CEO by Sasha Mike and like order it from 2020 that is 2021 you can come get it. Ask you 2022 you NurMi the morning. Question about year 2023 that'll be 2024.
-# Product
+# 👪 Product
 An extra that product by NurMi's since 2019. Can say that "Hey damn!" this greetings. Good afternoon.
-# History
+# 🧭 History
 2024: The NurMi Company - CEO by Sasha Mike.
 
 2023: BFP LLC - Babyfirst Pink LLC.
@@ -32,7 +32,7 @@ An extra that product by NurMi's since 2019. Can say that "Hey damn!" this greet
 
 1996: MIATA-XIAO - Miata Xiao.
 
-# About it
+# ℹ️ About it
 ```
 Creator: Sasha Mike
 
@@ -40,5 +40,5 @@ Phone: +7 989-637-8969
 
 Email: support@nurmi.com 
 ```
-# Official Channel
+# :dependabot: Official Channel
 ![Static Badge](https://img.shields.io/badge/build-donate-brightgreen?style=for-the-badge&logo=Boosty&logoColor=White&label=Boosty&color=%23eb5e34&link=https%3A%2F%2Fboosty.to%2Fnurmike) ![Static Badge](https://img.shields.io/badge/build-chat-brightgreen?style=for-the-badge&logo=Discord&label=Discord&color=%235865F2&link=https%3A%2F%2Fdiscord.gg%2Fe5BBx5ap)
