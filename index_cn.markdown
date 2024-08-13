@@ -21,6 +21,16 @@ NurMi Inc. 自 2019 年以来，您有 Sasha Mike 的任何 CEO，并且喜欢�
 2020：CH LLC-Covid Health LLC。
 
 2019 年：I-A-M LLC：我是 Mike LLC。
+
+2018 年：MOSP LLC-Mike Open Source Project LLC。
+
+2012 年：MS 公司 - Milestone Slim Co.
+
+2010 年：MS——Milestone Slim。
+
+2006 年：MT——里程碑番茄。
+
+1996 年：肖米塔——Shomita。
 # 关于它
 ```
 创作者：Sasha Mike
