@@ -5,29 +5,29 @@
 layout: home
 ---
 ![1713259178290](https://github.com/user-attachments/assets/29720a79-1122-4187-969f-958b7432595f)
-# Company
-NurMi Inc. Since 2019 you have any CEO by Sasha Mike and like order it from 2020 that is 2021 you can come get it. Ask you 2022 you NurMi the morning. Question about year 2023 that'll be 2024.
-# Product
-An extra that product by NurMi's since 2019. Can say that "Hey damn!" this greetings. Good afternoon.
-# History
-2024: The NurMi Company - CEO by Sasha Mike.
+# 公司
+NurMi Inc. 自 2019 年以来，您有 Sasha Mike 的任何 CEO，并且喜欢从 2020 年订购，即 2021 年，您可以来获取它。早上问你 2022 年的 NurMi。关于 2023 年的问题，那是 2024 年。
+# 产品
+自 2019 年以来，NurMi 推出的一款额外产品。可以说“嘿，该死！”这个问候。下午好。
+# 历史
+2024 年：NurMi 公司 - 首席执行官：Sasha Mike。
 
-2023: BFP LLC - Babyfirst Pink LLC.
+2023：BFP LLC-Babyfirst Pink LLC。
 
-2022: MTT LLC - MALLYT LLC.
+2022：MTT LLC-MALLYT LLC。
 
-2021: Sasha Co. LTD - Sasha LLC-LTD.
+2021：萨莎有限公司 - 萨莎有限责任公司。
 
-2020: CH LLC - Covid Health LLC.
+2020：CH LLC-Covid Health LLC。
 
-2019: I-A-M LLC: I am Mike LLC.
-# About it
+2019 年：I-A-M LLC：我是 Mike LLC。
+# 关于它
 ```
-Creator: Sasha Mike
+创作者：Sasha Mike
 
-Phone: +7 989-637-8969
+电话：+7 989-637-8969
 
-Email: support@nurmi.com 
+电子邮件: support@nurmi.cn 
 ```
 # Official Channel
 ![Static Badge](https://img.shields.io/badge/build-donate-brightgreen?style=for-the-badge&logo=Boosty&logoColor=White&label=Boosty&color=%23eb5e34&link=https%3A%2F%2Fboosty.to%2Fnurmike) ![Static Badge](https://img.shields.io/badge/build-chat-brightgreen?style=for-the-badge&logo=Discord&label=Discord&color=%235865F2&link=https%3A%2F%2Fdiscord.gg%2Fe5BBx5ap)
