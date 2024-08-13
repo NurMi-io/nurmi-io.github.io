@@ -18,9 +18,20 @@ An extra that product by NurMi's since 2019. Can say that "Hey damn!" this greet
 
 2021: Sasha Co. LTD - Sasha LLC-LTD.
 
-2020: CH LLC - Covid Health LLC.
+2020: MH LLC - Covid Health LLC.
 
-2019: I-A-M LLC: I am Mike LLC.
+2019: I-A-M LLC - I am Mike LLC.
+
+2018: MOSP LLC - Mike Open Source Project LLC.
+
+2012: MS Company - Milestone Slim Co.
+
+2010: MS - Milestone Slim.
+
+2006: MT - Milestone Tomato.
+
+1996: MIATA-XIAO - Miata Xiao.
+
 # About it
 ```
 Creator: Sasha Mike
