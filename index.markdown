@@ -6,7 +6,7 @@ layout: home
 ---
 ![1713259178290](https://github.com/user-attachments/assets/29720a79-1122-4187-969f-958b7432595f)
 # :accessibility: Company
-NurMi Inc. Since 2019 you have any CEO by Sasha Mike and like order it from 2020 that is 2021 you can come get it. Ask you 2022 you NurMi the morning. Question about year 2023 that'll be 2024.
+NurMi Inc. Since 2019 you have any CEO by Sasha Mike and like order it from 2020 that is 2021 you can come get it. Ask you 2022 this NurMi the morning. Question about year 2023 that'll be 2024.
 # 👪 Product
 An extra that product by NurMi's since 2019. Can say that "Hey damn!" this greetings. Good afternoon.
 # 🧭 History
