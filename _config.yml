@@ -22,8 +22,8 @@ title: NurMi Inc
 email: support@nurmi.com 
 description: >- # this means to ignore newlines until "baseurl:"
   NurMi Inc - Introduction Page
-baseurl: "/official" # the subpath of your site, e.g. /blog
-url: "http://nurmi.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: NurMiApp
 
 # Build settings
