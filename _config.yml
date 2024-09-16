@@ -10,16 +10,3 @@ github_username: NurMiApp
 theme: minima
 plugins:
   - jekyll-feed
-
-#   Jekyll files text
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
