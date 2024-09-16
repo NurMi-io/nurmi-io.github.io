@@ -33,12 +33,11 @@ NurMi Inc. 自 2019 年以来，您有 Sasha Mike 的任何 CEO，并且喜欢�
 1996 年：肖米塔——Shomita。
 # 关于它
 ```
-创作者：Sasha Mike
-
-电话：+7 989-637-8969
-
-电子邮件: support@nurmi.cn 
+创建者： 萨沙·迈克
+电话：+7 989-637-8979
+电子邮件: support@nurmi.cn
+地址：顿河畔罗斯托夫
+时间：莫斯科（GMT+03:00）
 ```
 # 官方渠道
 ![Static Badge](https://img.shields.io/badge/build-donate-brightgreen?style=for-the-badge&logo=Boosty&logoColor=White&label=Boosty&color=%23eb5e34&link=https%3A%2F%2Fboosty.to%2Fnurmike) ![Static Badge](https://img.shields.io/badge/build-chat-brightgreen?style=for-the-badge&logo=Discord&label=Discord&color=%235865F2&link=https%3A%2F%2Fdiscord.gg%2Fe5BBx5ap) ![Static Badge](https://img.shields.io/badge/build-chat-brightgreen?style=for-the-badge&logo=Android&logoColor=%23ffea70&label=SimSimi&color=%23ffea70&link=https%3A%2F%2Flink.simsimi.com%2FhobM72BaFad48exy5)
-
