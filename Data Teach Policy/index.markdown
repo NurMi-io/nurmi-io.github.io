@@ -2,7 +2,7 @@
 
 **App/Developer Name:** Nurmi (Co) Ltd.
 
-## Steps to Request Account Deletion
+## Steps to Request Teach Chat
 
 To request the deletion of your account and app usage data, please follow these steps:
 
